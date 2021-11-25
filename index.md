@@ -10,4 +10,4 @@ layout: default
 
 <br>
 
-[Testfile](https://google.com)
+[text](https://example.com)

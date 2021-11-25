@@ -10,4 +10,4 @@ layout: default
 
 <br>
 
-[github](https://github.com)
+[text](https://example.com)

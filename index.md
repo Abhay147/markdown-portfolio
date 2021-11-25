@@ -10,4 +10,3 @@ layout: default
 
 <br>
 
-[text](https://example.com)

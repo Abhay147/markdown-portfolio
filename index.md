@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-(![Image of yaktocat] (https://octodex.github.com/images/yaktocat.png)) 
+([Image of yaktocat] (https://octodex.github.com/images/yaktocat.png)) 
 
 <br>
 
